@@ -1,0 +1,42 @@
+/*Header Start*/
+#header-nav {
+  background-color: #c0c0ca;
+  border: solid 2px black;
+  padding: 5px 0 10px; }
+
+.navbar-brand h1 {
+  padding: 0;
+  margin: 0;
+  color: black; }
+
+#main-content.container {
+  width: 100%; }
+
+a {
+  text-align: center; }
+
+/*Header End*/
+/*Main Info Section*/
+h2 {
+  text-align: center;
+  margin-top: 80px;
+  font-weight: bold; }
+
+.header span {
+  display: block;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  color: #000000;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold; }
+
+.header p {
+  font-weight: bold;
+  font-size: 16px; }
+
+.header {
+  margin: 5px;
+  padding: 20px;
+  background-color: #c0c0ca;
+  font-size: 15px; }
